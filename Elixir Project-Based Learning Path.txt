@@ -1,0 +1,113 @@
+Elixir Project-Based Learning Path
+Total time: 11 weeks
+1. Basics (1 week)
+Project:
+
+Simple calculator
+
+Topics:
+
+Syntax
+Data types
+Functions
+Modules
+Basic pattern matching
+
+Resource:
+
+"Elixir Getting Started" guide
+
+2. Functional Programming (1.5 weeks)
+Projects:
+
+Enhanced text analyzer (word count, frequency analysis, basic file I/O)
+Simple todo list (console application)
+
+Topics:
+
+Immutability
+Recursion
+Higher-order functions
+List comprehensions
+Maps and Structs
+
+Resource:
+
+"Programming Elixir" by Dave Thomas (first half)
+
+3. Intermediate Concepts (1.5 weeks)
+Project:
+
+Weather data processor (fetch data from API, process and store results)
+
+Topics:
+
+Advanced pattern matching
+Error handling
+Intro to Mix
+Working with external libraries
+
+Resource:
+
+"Programming Elixir" by Dave Thomas (second half)
+
+4. Concurrency Basics (1 week)
+Project:
+
+Parallel web scraper
+
+Topics:
+
+Processes
+Basic message passing
+Task module
+
+Resource:
+
+"Concurrent Data Processing in Elixir" by Svilen Gospodinov (first few chapters)
+
+5. OTP and Advanced Concurrency (2 weeks)
+Project:
+
+Simple chat server with multiple chatrooms
+
+Topics:
+
+GenServer
+Supervisors
+Application structure
+
+Resource:
+
+"Concurrent Data Processing in Elixir" by Svilen Gospodinov (remaining chapters)
+
+6. Introduction to Phoenix (2 weeks)
+Project:
+
+Todo list web application
+
+Topics:
+
+Phoenix framework basics
+Ecto for database interactions
+
+Resources:
+
+Phoenix framework documentation
+"Programming Phoenix" by Chris McCord et al.
+
+7. Advanced Topics (2 weeks)
+Project:
+
+Distributed system simulation (e.g., simple blockchain)
+
+Topics:
+
+Metaprogramming basics
+Protocols
+Distributed Elixir
+
+Resources:
+
+"Metaprogramming Elixir" by Chris McCord
+Elixir official documentation

@@ -1,0 +1,30 @@
+Requirements and structure:
+- Command-line interface
+- Perform basic arithmetic operations: addition, subtraction, multiplication and division.
+- Should take user input for numbers and operations.
+- Should display the result of the calculation.
+
+Updates
+- 11/9: Basic calculator functionality set-up
+
+Future Additions:
+1. Add more complex mathematical operations:
+Implement functions for exponents, square roots, or trigonometric operations.
+
+2. Create a loop for multiple calculations:
+Modify the calculate function to allow users to perform multiple calculations without restarting the program.
+
+3. Enhance error handling:
+Add more robust error checking for invalid operations or inputs.
+
+4. Implement a command-line interface:
+Create options for users to choose operations or exit the program.
+
+5. Store calculation history:
+Keep a record of past calculations and allow users to recall them.
+
+6. Use Elixir's Mix tool:
+Convert your project into a Mix project, which is the standard way to organize Elixir projects.
+
+7. Write tests:
+Learn about ExUnit, Elixir's built-in test framework, and write tests for your calculator functions.
